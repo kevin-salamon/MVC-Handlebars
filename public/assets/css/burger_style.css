@@ -1,24 +1,49 @@
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
+  padding: 5px;
+  margin: 5px;
+  background: purple;
+  color: white;
+  font-family: 'Concert One', monospace;
+  font-weight: bolder;
+  font-size: 18px;
+}
 
-  .hidden {
-    display: none;
-  }
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.hidden {
+  display: none;
+}
+
+.pmarker {
+  font-family: 'Permanent Marker', cursive;
+  color: purple;
+}
+
+.check {
+  border: 1px solid black;
+}
   
+img {
+  position: relative;
+  left: 42%;
+  height: 200px;
+  width: 300px;
+}
+
+.button-font {
+  font-weight: bolder;
+  font-size: 18px;
+  font-style: monospace;
+}
