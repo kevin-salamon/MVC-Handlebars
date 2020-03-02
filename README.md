@@ -22,6 +22,7 @@ An app testing the utility of the MVC and Handlebars in web development, via the
 1. Express - to run the server through node.js
 2. Express Handlebars - the view of the page is built through handlebars
 3. mySQL - allows use of local SQL database
+4. dotenv - for storage of SQL password
 
 ## Usage 
 
